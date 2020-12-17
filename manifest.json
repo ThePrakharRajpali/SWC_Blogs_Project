@@ -1,0 +1,12 @@
+{
+    "name": "Bookmark Blogs",
+    "version": "1.0",
+    "permissions": [
+        "tabs"
+    ],
+    "browser_action" : {
+        "default_popup" : "popup.html",
+        "default_icon"  : "get_started16.png"
+    },
+    "manifest_version" : 2
+}
